@@ -60,6 +60,11 @@ Banner Part Start
     font-family: 'Poppins', sans-serif;
 }
 
+.banner_inner .banner_text button:hover{
+  background-color: transparent;
+  border: 1px solid white;
+}
+
 .banner_inner .banner_text button a i{
     padding-left: 8px;
 }
